@@ -14,12 +14,12 @@
 
 ### Objectives
 
-* Create functions to subtract, multiply, and divide two numbers.
-* Verify that all four functions work by calling each function. Create a separate alert for the results of each of the function calls.
-* Instead of just displaying the number result of each of the function calls, update your window.alert(...); method calls to include a phrase that explains the result. For example, when calling the add() function and getting an 8 as a result, the alert should say something like "The addition of your numbers equals 8". Do this for every function.
-* Combine the separate window.alert() method calls into one call that states all of the results of each mathematical operation. For example, if the user inputted numbers are 2 and 1, the alert should say: "The addition of your numbers equals 3. The subtraction of your numbers equals 1. The multiplication of your numbers equals 2. The division of your numbers equals 2."
+1. Create functions to subtract, multiply, and divide two numbers.
+2. Verify that all four functions work by calling each function. Create a separate alert for the results of each of the function calls.
+3. Instead of just displaying the number result of each of the function calls, update your window.alert(...); method calls to include a phrase that explains the result. For example, when calling the add() function and getting an 8 as a result, the alert should say something like "The addition of your numbers equals 8". Do this for every function.
+4. Combine the separate window.alert() method calls into one call that states all of the results of each mathematical operation. For example, if the user inputted numbers are 2 and 1, the alert should say: "The addition of your numbers equals 3. The subtraction of your numbers equals 1. The multiplication of your numbers equals 2. The division of your numbers equals 2."
   * Note: you don't have to write out this more complex return in one line. Break it up into as many lines as makes sense to you, and use as many variables as you need.
-* Try something more challenging now. Call all of the calculator functions and have the alert return both the user's inputted numbers and the results. For example, if the user inputted numbers are 2 and 1, the alert should say: "2 + 1 = 3, 2 - 1 = 1, 2 * 1 = 2, and 2 / 1 = 2".
+5. Try something more challenging now. Call all of the calculator functions and have the alert return both the user's inputted numbers and the results. For example, if the user inputted numbers are 2 and 1, the alert should say: "2 + 1 = 3, 2 - 1 = 1, 2 * 1 = 2, and 2 / 1 = 2".
   * Note: you don't have to write out this more complex return in one line. Break it up into as many lines as makes sense to you, and use as many variables as you need.
 
 <!-- This template includes placeholders for:
